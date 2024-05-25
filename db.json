@@ -1,0 +1,44 @@
+{
+  "msg": [
+    {
+      "id": "18bb",
+      "name": "Harsh Kumar",
+      "email": "harsh@gmail.com",
+      "Description": "i want react based ecommece website "
+    },
+    {
+      "id": "ebe8",
+      "name": "avinash",
+      "email": "avi@gmail.com",
+      "Description": "a"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "username": "harsh@gmail.com",
+      "password": "harsh123"
+    }
+  ],
+  "signup": [
+    {
+      "fname": "harsh",
+      "lname": "kumar",
+      "email": "harsh@gmail.com",
+      "phone": "09005502327",
+      "address": "Hardoi Gujar",
+      "password": "123",
+      "id": "aa53"
+    },
+    {
+      "fname": "hariom",
+      "lname": "kumar",
+      "email": "hari@gmail.com",
+      "phone": "9005502327",
+      "address": "indore",
+      "password": "123",
+      "id": "af7f"
+    }
+  ],
+  "data": []
+}
